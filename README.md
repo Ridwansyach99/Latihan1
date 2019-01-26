@@ -80,6 +80,12 @@ Langkah-Langkah Menggunakan Git.
 ![hiji](https://user-images.githubusercontent.com/46749500/51789375-da343900-21ba-11e9-8363-9e1aecb08924.jpg)
 
 - Kemuidan lihat perubahannya pada laman github.com
+  
+  ![jkj](https://user-images.githubusercontent.com/46749500/51789618-241e1e80-21bd-11e9-9d63-036c8e6a1a33.png)
+  
+  
+SEKIAN DAN TERIMA KASIH  
+
 
 
 
